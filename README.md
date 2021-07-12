@@ -1,12 +1,8 @@
 # Espaço para ser adicionado os projetos feitos nos cursos da Digital Innovation One
 
-## 📱 Contato
+## 📱 Contact me:
 
-<a href="https://github.com/lucasmarcuzo">
- <img style="border-radius: 10%;" 
- src="https://scontent.fgru9-1.fna.fbcdn.net/v/t1.6435-9/143467537_2494753287488094_2977742533331234192_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kJkP-E9neAIAX8XsOt-&_nc_ht=scontent.fgru9-1.fna&oh=469e5a2dc083fa0947953fa87b70c6b7&oe=60EF9973" width="110px;" alt=""/>
- <br />
- <sub><b>Lucas Marcuzo</b></sub></a> <a href="https://github.com/lucasmarcuzo" title="GitHub">💻</a>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteColor=white&link=https://github.com/lucasmarcuzo)](https://github.com/lucasmarcuzo) [![LinkedIn Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=white&link=https://www.linkedin.com/in/lucasmarcuzo/)](https://www.linkedin.com/in/lucasmarcuzo/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/LucasMarcuzzo)](https://facebook.com/LucasMarcuzzo) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/lucassolace)](https://twitter.com/lucassolace) [![DIO Badge](https://img.shields.io/badge/Digital%20Inovation%20One-red?style=for-the-badge&link=https://web.digitalinnovation.one/users/lucas_marcuzo)](https://web.digitalinnovation.one/users/lucas_marcuzo) [![URI Badge](https://img.shields.io/badge/URI%20ONLINE%20JUDGE-gray?style=for-the-badge&link=https://www.urionlinejudge.com.br/judge/pt/profile/510115)](https://www.urionlinejudge.com.br/judge/pt/profile/510115)
  
  ## 📃Licenças
 
