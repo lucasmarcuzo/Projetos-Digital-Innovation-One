@@ -1,15 +1,13 @@
 # Espaço para ser adicionado os projetos feitos nos cursos da Digital Innovation One
 
-## Contato
+## 📱 Contato
 
-Lucas Marcuzo
+<a href="https://github.com/lucasmarcuzo">
+ <img style="border-radius: 10%;" 
+ src="https://scontent.fgru9-1.fna.fbcdn.net/v/t1.6435-9/143467537_2494753287488094_2977742533331234192_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kJkP-E9neAIAX8XsOt-&_nc_ht=scontent.fgru9-1.fna&oh=469e5a2dc083fa0947953fa87b70c6b7&oe=60EF9973" width="110px;" alt=""/>
+ <br />
+ <sub><b>Lucas Marcuzo</b></sub></a> <a href="https://github.com/lucasmarcuzo" title="GitHub">💻</a>
+ 
+ ## 📃Licenças
 
-Linkedin: [br.linkedin.com/in/lucasmarcuzo](https://www.linkedin.com/in/lucasmarcuzo/)
-
-Facebook: [facebook.com/LucasMarcuzzo](https://facebook.com/LucasMarcuzzo)
-
-Twitter:  [@lucassolace](https://twitter.com/lucassolace)
-
-Github:   [github.com/lucasmarcuzo](https://github.com/lucasmarcuzo)
-
-Dio:      [digitalinnovation.one/lucasmarcuzo](https://web.digitalinnovation.one/users/lucas_marcuzo)
+![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-Integrado-WMS-Recebimento)
