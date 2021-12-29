@@ -1,4 +1,82 @@
-# ▶ Espaço para ser adicionado projetos feitos nos Bootcamps da Digital Innovation One
+# ▶ Espaço para ser adicionado projetos feitos nos Bootcamps da Digital Innovation One.
+
+
+## 👨🏼‍💻 Projetos Realizados:
+
+<!-- .NET C# -->
+<details>
+    <summary><strong> .NET C# </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">Exercícios feitos em .NET C#</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Nome do Exercício</th>
+                <th>Arquivo</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Projeto - Criando um APP simples de cadastro de séries em .NET</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Criando%20um%20APP%20simples%20de%20cadastro%20de%20s%C3%A9ries%20em%20.NET">Visualizar</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td>Projeto - Criando um catálogo de jogos usando boas práticas de arquitetura com .NET</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Criando%20um%20cat%C3%A1logo%20de%20jogos%20usando%20boas%20pr%C3%A1ticas%20de%20arquitetura%20com%20.NET">Visualizar</a></td>
+                <td align="center">✅</td>
+           </tr>
+            <tr>
+                <td>Projeto - Criando uma aplicação de transferências bancárias com .NET</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Criando%20uma%20aplica%C3%A7%C3%A3o%20de%20transfer%C3%AAncias%20banc%C3%A1rias%20com%20.NET">Visualizar</a></td>
+                <td align="center">✅</td>
+          </tr>
+            <tr>
+          </table>
+       </div>
+</details>
+
+<!-- JAVA -->
+<details>
+    <summary><strong> JAVA </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">JAVA</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Nome do Exercício</th>
+                <th>Arquivo</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Projeto - Desafio-Banco-DIO com JAVA</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Desafio-Banco-DIO%20com%20JAVA">Visualizar</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td>Projeto - Desafio-POO-DIO com JAVA</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Desafio-POO-DIO%20com%20JAVA">Visualizar</a></td>
+                <td align="center">✅</td>
+           </tr>
+            <tr>
+                <td>Projeto - Desafio-Desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-API-REST-com-Spring-Boot</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Desafio-Desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-API-REST-com-Spring-Boot">Visualizar</a></td>
+                <td align="center">✅</td>
+          </tr>
+            <tr>
+          </table>
+       </div>
+</details>
+
 
 ## 📱 Contato :
 
