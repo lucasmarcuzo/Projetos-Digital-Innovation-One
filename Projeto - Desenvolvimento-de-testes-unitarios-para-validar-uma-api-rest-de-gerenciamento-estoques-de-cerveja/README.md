@@ -1,4 +1,4 @@
-<h1>Projeto - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h1>
+<h1>Projeto - Desenvolvimento-de-testes-unitarios-para-validar-uma-api-rest-de-gerenciamento-estoques-de-cerveja</h1>
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
