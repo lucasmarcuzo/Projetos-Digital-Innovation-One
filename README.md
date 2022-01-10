@@ -95,8 +95,8 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Projeto - Projetando o Primeiro Aplicativo Android Usando Kotlin</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Desafio-Banco-DIO%20com%20JAVA">Visualizar</a></td>
+                <td>Projeto - Projetando o Primeiro Aplicativo Android Usando Kotlin - (Calculadora de IMC)</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Projetando%20o%20Primeiro%20Aplicativo%20Android%20Usando%20Kotlin">Visualizar</a></td>
                 <td align="center">✅</td>
           </tr>
             <tr>
