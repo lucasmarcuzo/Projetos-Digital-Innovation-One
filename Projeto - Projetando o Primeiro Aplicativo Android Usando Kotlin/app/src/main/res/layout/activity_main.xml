@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sobrepeso"
+    tools:context="com.dio.ProjetoCalculadoraIMC.MainActivity"
+    android:gravity="center"
+    android:hapticFeedbackEnabled="false"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tituloEDT"
+        style="@style/title_purple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculadora de IMC"
+        android:textSize="35sp" />
+
+    <EditText
+        android:id="@+id/pesoEDT"
+        style="@style/input_Style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/peso_hint"
+        android:minHeight="48dp"
+        android:visibility="visible"
+        tools:visibility="visible" />
+
+    <EditText
+        android:id="@+id/alturaEDT"
+        style="@style/input_Style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/altura_hint"
+        android:minHeight="48dp"
+        android:visibility="visible"
+        tools:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/calcularBTN"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#06F10F"
+            android:padding="16dp"
+            android:text="Calcular"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+
+</LinearLayout>

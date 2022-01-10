@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="ola_radio_button">Olá Rádio Button!</string>
+    <string name="ola_checkbox">Olá CheckBox</string>
+    <string name="peso_hint">Peso (Kg) - (ex: 65.8)</string>
+    <string name="altura_hint">Altura (Cm) - (ex: 1.75)</string>
+</resources>
