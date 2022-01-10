@@ -5,7 +5,7 @@
 
 <!-- .NET C# -->
 <details>
-    <summary><strong> .NET C# </strong></summary>
+    <summary><strong> C# .NET </strong></summary>
     <br />
     <div align="left">
         <table border=1>
@@ -76,6 +76,34 @@
           </table>
        </div>
 </details>
+
+<!-- KOTLIN -->
+<details>
+    <summary><strong> KOTLIN </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">KOTLIN</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Nome do Exercício</th>
+                <th>Arquivo</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Projeto - Projetando o Primeiro Aplicativo Android Usando Kotlin</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Desafio-Banco-DIO%20com%20JAVA">Visualizar</a></td>
+                <td align="center">✅</td>
+          </tr>
+            <tr>
+          </table>
+       </div>
+</details>
+
 
 
 ## 📱 Contato:
