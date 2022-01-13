@@ -98,6 +98,11 @@
                 <td>Projeto - Projetando o Primeiro Aplicativo Android Usando Kotlin - (Calculadora de IMC)</td>
                 <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Projetando%20o%20Primeiro%20Aplicativo%20Android%20Usando%20Kotlin">Visualizar</a></td>
                 <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td>Projeto - Criando um App de Lembretes e Tarefas com Kotlin</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-Digital-Innovation-One/tree/main/Projeto%20-%20Criando%20um%20App%20de%20Lembretes%20e%20Tarefas%20com%20Kotlin">Visualizar</a></td>
+                <td align="center">✅</td>   
           </tr>
             <tr>
           </table>
