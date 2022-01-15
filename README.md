@@ -36,6 +36,9 @@
                 <td align="center">✅</td>
           </tr>
             <tr>
+                <td>Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-Digital-Innovation-One/tree/main/Projeto%20-%20Abstraindo%20um%20Jogo%20de%20RPG%20Usando%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20com%20C%23/JogoRPGcomPOO">Visualizar</a></td>
+                <td align="center">✅</td>
           </table>
        </div>
 </details>
