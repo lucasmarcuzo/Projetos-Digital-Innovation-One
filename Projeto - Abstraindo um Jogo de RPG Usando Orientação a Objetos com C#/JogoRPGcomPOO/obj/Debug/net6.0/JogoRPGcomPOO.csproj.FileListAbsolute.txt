@@ -1,0 +1,15 @@
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\bin\Debug\net6.0\JogoRPGcomPOO.exe
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\bin\Debug\net6.0\JogoRPGcomPOO.deps.json
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\bin\Debug\net6.0\JogoRPGcomPOO.runtimeconfig.json
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\bin\Debug\net6.0\JogoRPGcomPOO.dll
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\bin\Debug\net6.0\ref\JogoRPGcomPOO.dll
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\bin\Debug\net6.0\JogoRPGcomPOO.pdb
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\obj\Debug\net6.0\JogoRPGcomPOO.csproj.AssemblyReference.cache
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\obj\Debug\net6.0\JogoRPGcomPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\obj\Debug\net6.0\JogoRPGcomPOO.AssemblyInfoInputs.cache
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\obj\Debug\net6.0\JogoRPGcomPOO.AssemblyInfo.cs
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\obj\Debug\net6.0\JogoRPGcomPOO.csproj.CoreCompileInputs.cache
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\obj\Debug\net6.0\JogoRPGcomPOO.dll
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\obj\Debug\net6.0\ref\JogoRPGcomPOO.dll
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\obj\Debug\net6.0\JogoRPGcomPOO.pdb
+D:\Estudos\TESTES\C# .NET\DIO\JogoRPGcomPOO\obj\Debug\net6.0\JogoRPGcomPOO.genruntimeconfig.cache
