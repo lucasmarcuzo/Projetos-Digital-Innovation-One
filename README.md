@@ -73,6 +73,11 @@
             <tr>
                 <td>Projeto - Desafio-Desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-API-REST-com-Spring-Boot</td>
                 <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Desafio-Desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-API-REST-com-Spring-Boot">Visualizar</a></td>
+                <td align="center">✅</td>     
+           </tr>
+            <tr>
+                <td>Projeto - Explorando Padrões de Projetos na Prática com Java</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projetos-Digital-Innovation-One/tree/main/Projeto%20-%20Explorando%20Padr%C3%B5es%20de%20Projetos%20na%20Pr%C3%A1tica%20com%20Java">Visualizar</a></td>
                 <td align="center">✅</td>
           </tr>
             <tr>
