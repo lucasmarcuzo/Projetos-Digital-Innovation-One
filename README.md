@@ -1,5 +1,9 @@
-# ▶ Projetos Realizados nos Bootcamps da Digital Innovation One.
+# <img width="25" height="25" src="https://web.dio.me/favicon/favicon.ico"> Projetos Realizados nos Bootcamps da Digital Innovation One:
 
+<p align="center">
+<a href="https://web.dio.me/home">
+<img  width="200"  height="100"  src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
+</p>
 
 ## 👨🏼‍💻 Projetos Realizados:
 
