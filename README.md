@@ -108,8 +108,8 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Projeto - Primeiro Aplicativo Android Usando Kotlin - (Calculadora de IMC)</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Primeiro-APP">Visualizar</a></td>
+                <td>Projeto - Primeiro Aplicativo Android Usando Kotlin (Calculadora de IMC) com Kotlin</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Primeiro-APP-Calculadora-IMC">Visualizar</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
