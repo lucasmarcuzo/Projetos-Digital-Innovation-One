@@ -1,4 +1,4 @@
-# ▶ Espaço para ser adicionado projetos feitos nos Bootcamps da Digital Innovation One.
+# ▶ Projetos Realizados nos Bootcamps da Digital Innovation One.
 
 
 ## 👨🏼‍💻 Projetos Realizados:
@@ -22,22 +22,22 @@
             </tr>
             <tr>
                 <td>Projeto - Criando um APP simples de cadastro de séries em .NET</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Criando%20um%20APP%20simples%20de%20cadastro%20de%20s%C3%A9ries%20em%20.NET">Visualizar</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-APP-Cadastro-Series">Visualizar</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td>Projeto - Criando um catálogo de jogos usando boas práticas de arquitetura com .NET</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Criando%20um%20cat%C3%A1logo%20de%20jogos%20usando%20boas%20pr%C3%A1ticas%20de%20arquitetura%20com%20.NET">Visualizar</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Catalogo-Jogos">Visualizar</a></td>
                 <td align="center">✅</td>
            </tr>
             <tr>
                 <td>Projeto - Criando uma aplicação de transferências bancárias com .NET</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Criando%20uma%20aplica%C3%A7%C3%A3o%20de%20transfer%C3%AAncias%20banc%C3%A1rias%20com%20.NET">Visualizar</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-App-Transferencias-Bancarias">Visualizar</a></td>
                 <td align="center">✅</td>
           </tr>
             <tr>
                 <td>Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-Digital-Innovation-One/tree/main/Projeto%20-%20Abstraindo%20um%20Jogo%20de%20RPG%20Usando%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20com%20C%23/JogoRPGcomPOO">Visualizar</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Jogo-RPG-POO">Visualizar</a></td>
                 <td align="center">✅</td>
           </table>
        </div>
@@ -61,23 +61,28 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Projeto - Desafio-Banco-DIO com JAVA</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Desafio-Banco-DIO%20com%20JAVA">Visualizar</a></td>
+                <td>Projeto - Desafio Banco DIO com JAVA</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Banco-Digital-POO">Visualizar</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td>Projeto - Desafio-POO-DIO com JAVA</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Desafio-POO-DIO%20com%20JAVA">Visualizar</a></td>
+                <td>Projeto - Desafio POO DIO Abstraindo Bootcamp POO com JAVA</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Abstraindo-Bootcamp-POO">Visualizar</a></td>
                 <td align="center">✅</td>
            </tr>
             <tr>
-                <td>Projeto - Desafio-Desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-API-REST-com-Spring-Boot</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Desafio-Desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-API-REST-com-Spring-Boot">Visualizar</a></td>
+                <td>Projeto - Desafio Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Sistema-Gerenciamento-Pessoas">Visualizar</a></td>
                 <td align="center">✅</td>     
            </tr>
             <tr>
                 <td>Projeto - Explorando Padrões de Projetos na Prática com Java</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-Digital-Innovation-One/tree/main/Projeto%20-%20Explorando%20Padr%C3%B5es%20de%20Projetos%20na%20Pr%C3%A1tica%20com%20Java">Visualizar</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Padroes-Projetos-Java">Visualizar</a></td>
+                <td align="center">✅</td>
+           </tr>
+            <tr>
+                <td>Projeto - Unit Test Beerstock com Java</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Unit-Test-Beerstock">Visualizar</a></td>
                 <td align="center">✅</td>
           </tr>
             <tr>
@@ -103,13 +108,13 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Projeto - Projetando o Primeiro Aplicativo Android Usando Kotlin - (Calculadora de IMC)</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-DIO/tree/main/Projeto%20-%20Projetando%20o%20Primeiro%20Aplicativo%20Android%20Usando%20Kotlin">Visualizar</a></td>
+                <td>Projeto - Primeiro Aplicativo Android Usando Kotlin - (Calculadora de IMC)</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Primeiro-APP">Visualizar</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td>Projeto - Criando um App de Lembretes e Tarefas com Kotlin</td>
-                <td><a href="https://github.com/lucasmarcuzo/Projetos-Digital-Innovation-One/tree/main/Projeto%20-%20Criando%20um%20App%20de%20Lembretes%20e%20Tarefas%20com%20Kotlin">Visualizar</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-APP-Lembrete-Tarefas">Visualizar</a></td>
                 <td align="center">✅</td>   
           </tr>
             <tr>
@@ -130,4 +135,4 @@
 - Todos os projetos deste diretório tem licença MIT.
  
 <div align="right"> <h3> - Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/DIO"> </h3> </p>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/ProjetosDIO"> </h3> </p>
