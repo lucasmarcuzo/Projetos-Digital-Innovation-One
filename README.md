@@ -120,6 +120,11 @@
                 <td>Projeto - Criando um App de Lembretes e Tarefas com Kotlin</td>
                 <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-APP-Lembrete-Tarefas">Visualizar</a></td>
                 <td align="center">✅</td>   
+            </tr>
+            <tr>
+                <td>Projeto - Criando um APP de Cartão de Visitas em Kotlin </td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-APP-Cartao-Visitas">Visualizar</a></td>
+                <td align="center">✅</td>        
           </tr>
             <tr>
           </table>
