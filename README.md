@@ -124,7 +124,12 @@
             <tr>
                 <td>Projeto - Criando um APP de Cartão de Visitas em Kotlin </td>
                 <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-APP-Cartao-Visitas">Visualizar</a></td>
-                <td align="center">✅</td>        
+                <td align="center">✅</td>    
+            </tr>
+            <tr>
+                <td>Projeto - Criando um APP para apresentar meu Portfólio do GitHub em Kotlin </td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-APP-Portfolio-GitHub">Visualizar</a></td>
+                <td align="center">✅</td>   
           </tr>
             <tr>
           </table>
