@@ -88,6 +88,11 @@
                 <td>Projeto - Unit Test Beerstock com Java</td>
                 <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Unit-Test-Beerstock">Visualizar</a></td>
                 <td align="center">✅</td>
+           </tr>
+            <tr>
+                <td>rojeto - App Nativo Sobre Futebol Feminino com Android Jetpack e Java</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-APP-Womens-Football-News">Visualizar</a></td>
+                <td align="center">✅</td>
           </tr>
             <tr>
           </table>
