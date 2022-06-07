@@ -150,8 +150,6 @@
 ## 📃Licenças:
 
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projetos-Digital-Innovation-One)
-
-- Todos os projetos deste diretório tem licença MIT.
  
 <div align="right"> <h3> - Thanks for visiting! ✌🏻 </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/ProjetosDIO"> </h3> </p>
