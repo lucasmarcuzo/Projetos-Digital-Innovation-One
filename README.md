@@ -141,6 +141,33 @@
        </div>
 </details>
 
+<!-- TYPESCRIPT -->
+<details>
+    <summary><strong> TYPESCRIPT </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">TYPESCRIPT</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Nome do Exercício</th>
+                <th>Arquivo</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Projeto - Criando um projeto em TypeScript para a realização de exemplos e desafios propostos</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Introducao-Pratica-ao-TypeScript">Visualizar</a></td>
+                <td align="center">✅</td>
+          </tr>
+            <tr>
+          </table>
+       </div>
+</details>
+
 ## 📱 Contato:
 
 <div align="left">
