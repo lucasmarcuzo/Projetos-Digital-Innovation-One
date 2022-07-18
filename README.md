@@ -14,13 +14,13 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">Exercícios feitos em .NET C#</th>
+                <th colspan="4">Projetos feitos com .NET e C#</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
             </tr>
             <tr>
-                <th>Nome do Exercício</th>
+                <th>Nome do Projeto</th>
                 <th>Arquivo</th>
                 <th>Status</th>
             </tr>
@@ -54,13 +54,13 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">JAVA</th>
+                <th colspan="4">Projetos feitos com JAVA</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
             </tr>
             <tr>
-                <th>Nome do Exercício</th>
+                <th>Nome do Projeto</th>
                 <th>Arquivo</th>
                 <th>Status</th>
             </tr>
@@ -106,13 +106,13 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">KOTLIN</th>
+                <th colspan="4">Projetos feitos com KOTLIN</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
             </tr>
             <tr>
-                <th>Nome do Exercício</th>
+                <th>Nome do Projeto</th>
                 <th>Arquivo</th>
                 <th>Status</th>
             </tr>
@@ -148,19 +148,46 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">TYPESCRIPT</th>
+                <th colspan="4">Projetos feitos com TYPESCRIPT</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
             </tr>
             <tr>
-                <th>Nome do Exercício</th>
+                <th>Nome do Projeto</th>
                 <th>Arquivo</th>
                 <th>Status</th>
             </tr>
             <tr>
                 <td>Projeto - Criando um projeto em TypeScript para a realização de exemplos e desafios propostos</td>
                 <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Introducao-Pratica-ao-TypeScript">Visualizar</a></td>
+                <td align="center">✅</td>
+          </tr>
+            <tr>
+          </table>
+       </div>
+</details>
+
+<!-- HTML & CSS -->
+<details>
+    <summary><strong> HTML & CSS </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">Projetos feitos com HTML & CSS</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Nome do Projeto</th>
+                <th>Arquivo</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Projeto - Recriando a página inicial do Instagram</td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Recriando-a-pagina-inicial-do-Instagram">Visualizar</a></td>
                 <td align="center">✅</td>
           </tr>
             <tr>
