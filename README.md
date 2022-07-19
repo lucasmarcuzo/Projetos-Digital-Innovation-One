@@ -162,6 +162,11 @@
                 <td>Projeto - Criando um projeto em TypeScript para a realização de exemplos e desafios propostos</td>
                 <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Introducao-Pratica-ao-TypeScript">Visualizar</a></td>
                 <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td>Projeto - Criando um E-commerce utilizando Angular </td>
+                <td><a href="https://github.com/lucasmarcuzo/Projeto-DIO-Criando-um-E-commerce-utilizando-Angular">Visualizar</a></td>
+                <td align="center">✅</td>
           </tr>
             <tr>
           </table>
