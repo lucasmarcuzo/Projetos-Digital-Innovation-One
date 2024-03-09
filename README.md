@@ -200,6 +200,33 @@
        </div>
 </details>
 
+<!-- Outros -->
+<details>
+    <summary><strong> Outros </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">Outros projetos realizados</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Nome do Projeto</th>
+                <th>Arquivo</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Projeto - Contribuindo em um Projeto Open Source no GitHub</td>
+                <td><a href="https://github.com/lucasmarcuzo/dio-lab-open-source">Visualizar</a></td>
+                <td align="center">✅</td>
+          </tr>
+            <tr>
+          </table>
+       </div>
+</details>
+
 ## 📱 Contato:
 
 <div align="left">
